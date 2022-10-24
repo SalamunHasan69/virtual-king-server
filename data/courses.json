@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name": "Web Design"
+  },
+  {
+    "id": "02",
+    "name": "Web Development"
+  },
+  {
+    "id": "03",
+    "name": "Motion Graphics"
+  },
+  {
+    "id": "04",
+    "name": "Graphics Design"
+  },
+  {
+    "id": "05",
+    "name": "Video Editing"
+  },
+  {
+    "id": "06",
+    "name": "Cybersecurity"
+  }
+]
