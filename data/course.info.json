@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "image": "https://www.lineageek.com/wp-content/uploads/2022/01/xCSAEp8DjjrT2UQB87AoFN-1.jpg",
+    "name": "UI UX",
+    "title": "The UX designer role is to make a product or service usable, enjoyable, and accessible. While many companies design user experiences, the term is most often associated with digital design for websites and apps.",
+    "fee": 100
+  },
+  {
+    "id": "o2",
+    "image": "https://aldoagostinelli.com/wp-content/uploads/2021/09/web-development-e1632124596515.jpg",
+    "name": "Web Development",
+    "title": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site.",
+    "fee": 300
+  },
+  {
+    "id": "03",
+    "image": "https://mediablog.cdnpk.net/sites/9/2021/12/What-is-the-Difference-Between-Motion-Graphics-and-Animation-1280x720px.jpg",
+    "name": "Motion Graphics",
+    "title": "Motion Graphics involves creating graphics and moving them in time and space to achieve an intended goal or tell a story. The motion graphic elements are placed in a sequence of frames to create an illusion of motion.",
+    "fee": 150
+  },
+  {
+    "id": "04",
+    "image": "https://www.designerpeople.com/wp-content/uploads/2020/01/Graphic-design-types-inspiration.jpg",
+    "name": "Graphics Design",
+    "title": "Graphic designers create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers. They develop the overall layout and production design for applications such as advertisements, brochures, magazines, and reports.",
+    "fee": 125
+  },
+  {
+    "id": "05",
+    "image": "https://res.acdsee.com/media/uploads/2021/05/08202849/Luxea-VideoEditingSoftwarePage.jpg.webp",
+    "name": "Video Editing",
+    "title": "Video editing includes cutting segments (trimming), re-sequencing clips, and adding transitions and other special effects. Linear video editing uses video tape and is edited in a very linear way. Several video clips from different tapes are recorded to one single tape in the order that they will appear.",
+    "fee": 80
+  },
+  {
+    "id": "06",
+    "image": "https://www.curvearro.com/wp-content/uploads/2019/10/Ethical-Hacking-Curvearro.jpg",
+    "name": "Cybersecurity and Ethical-Hacking",
+    "title": "Cybersecurity is the practice of deploying people, policies, processes and technologies to protect organizations, their critical systems and sensitive information from digital attacks.Ethical hacking is a process of detecting vulnerabilities in an application, system, or organization's infrastructure that an attacker can use to exploit an individual or organization. They use this process to prevent cyberattacks and security breaches by lawfully hacking into the systems and looking for weak points.",
+    "fee": 250
+  }
+]
